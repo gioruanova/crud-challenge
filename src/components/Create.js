@@ -46,7 +46,7 @@ const Create = () => {
 
             <div className='row'>
               <div className='col'>
-                <div><button type='submit' className='btn btn-secondary mt-2 mb-2 w-50 text-uppercase'><b>Store</b></button></div>
+                <div><button type='submit' className='btn btn-secondary mt-2 mb-2 w-50 text-uppercase'><b>Add</b></button></div>
                 <Link to="/" className='btn btn-secondary mt-2 mb-2 w-50 text-uppercase'><b>Cancel</b></Link>
               </div>
             </div>

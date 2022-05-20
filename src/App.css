@@ -41,3 +41,8 @@ html{
     transform: rotate(360deg);
   }
 }
+
+
+.btn{
+  margin-left: 1rem;
+}
