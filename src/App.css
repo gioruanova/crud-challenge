@@ -3,7 +3,7 @@
   background-color: #939393;
 }
 
-html{
+html {
   background-color: #939393;
 }
 
@@ -42,7 +42,16 @@ html{
   }
 }
 
-
-.btn{
+.btn {
   margin-left: 1rem;
+}
+
+.url {
+  text-decoration: none !important;
+  color: black !important;
+  transition: 400ms;
+}
+
+.url:hover {
+  color: blue !important;
 }
