@@ -19,7 +19,7 @@ function App() {
   return (
     <div className="App">
 
-      <div className="badge bg-primary text-wrap p-2 w-50 m-4"><h1 >Stock Maganment</h1></div>
+      <div className="badge bg-primary text-wrap p-2 w-50 m-4"><h1 >-Stock Maganment-</h1></div>
 
       <BrowserRouter>
         <Routes>
